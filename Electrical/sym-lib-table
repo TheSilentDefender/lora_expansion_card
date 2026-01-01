@@ -3,4 +3,5 @@
   (lib (name "E22-400MM22S")(type "KiCad")(uri "${KIPRJMOD}/symbols/E22-400MM22S.kicad_sym")(options "")(descr ""))
   (lib (name "0734150963")(type "KiCad")(uri "${KIPRJMOD}/symbols/0734150963.kicad_sym")(options "")(descr ""))
   (lib (name "TLV76733DRVR")(type "KiCad")(uri "${KIPRJMOD}/symbols/TLV76733DRVR.kicad_sym")(options "")(descr ""))
+  (lib (name "XDBM-0339-1530")(type "KiCad")(uri "${KIPRJMOD}/symbols/XDBM-0339-1530.kicad_sym")(options "")(descr ""))
 )
